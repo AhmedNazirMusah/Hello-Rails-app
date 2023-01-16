@@ -1,0 +1,5 @@
+               config_file               
+-----------------------------------------
+ /etc/postgresql/12/main/postgresql.conf
+(1 row)
+
